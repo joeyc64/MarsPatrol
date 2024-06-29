@@ -1,5 +1,7 @@
 ## Mars Patrol
 
+<img src="Mars%20Patrol%201.png" alt="Titel" width="300" />
+
 Back in 1985 I wanted to convert my favorite arcade game to my beloved C64. The Atari version was rubbish, this could be done better!  
 My friend Helmut jumped onto the boat and we designed the C64 version of Moon Patrol. He would create the graphics, I would do the programming. 
 My only tool was an ass/diss monitor (4k length) with which I could directly write and modify the memory…  
@@ -12,3 +14,5 @@ I used VICE with the 50Hz PAL emulation - I never played this version on a real 
 
 **Have fun!**  
 <sub>(June 2024)</sub>
+
+<img src="Mars%20Patrol%202.png" alt="Base" width="300" /> <img src="Mars%20Patrol%203.png" alt="Mountains" width="300" /> <img src="Mars%20Patrol%204.png" alt="City" width="300" />
